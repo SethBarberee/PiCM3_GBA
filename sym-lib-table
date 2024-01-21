@@ -6,7 +6,7 @@
   (lib (name "test_point")(type "Legacy")(uri "/home/testuser/KiCadLibraries/RPi_CM3_Parts/Pi-Library/test_point.lib")(options "")(descr ""))
   (lib (name "spdt_switch")(type "Legacy")(uri "/home/testuser/KiCadLibraries/RPi_CM3_Parts/Pi-Library/spdt_switch.lib")(options "")(descr ""))
   (lib (name "mounting_point")(type "Legacy")(uri "/home/testuser/KiCadLibraries/RPi_CM3_Parts/Pi-Library/mounting_point.lib")(options "")(descr ""))
-  (lib (name "ddr2_sodimm")(type "Legacy")(uri "/home/testuser/KiCadLibraries/RPi_CM3_Parts/Pi-Library/ddr2_sodimm.lib")(options "")(descr ""))
+  (lib (name "ddr2_sodimm")(type "KiCad")(uri "/home/testuser/KiCadLibraries/RPi_CM3_Parts/Pi-Library/ddr2_sodimm.kicad_sym")(options "")(descr ""))
   (lib (name "batt_charg")(type "Legacy")(uri "/home/testuser/KiCadLibraries/RPi_CM3_Parts/Pi-Library/batt_charg.lib")(options "")(descr ""))
   (lib (name "display_tft_adafruit")(type "KiCad")(uri "${KIPRJMOD}/display_tft_adafruit.kicad_sym")(options "")(descr ""))
 )
